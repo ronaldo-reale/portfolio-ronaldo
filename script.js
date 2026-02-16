@@ -2,7 +2,7 @@
 const quizQuestions = [
     {
         question: "Quel est mon type de formation actuelle ?",
-        options: ["Licence Informatique", "BTS SISR", "Master Réseaux", "Formation autodidacte"],
+        options: ["Licence Informatique", "BTS SIO SISR", "Master Réseaux", "Formation autodidacte"],
         correct: 1
     },
     {
